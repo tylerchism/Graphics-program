@@ -1,1 +1,1 @@
-This is a OpenGl based graphics program
+This is an OpenGl based graphics program
